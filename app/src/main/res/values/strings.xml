@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Kothello</string>
+    <string name="empty">\ </string>
+    <string name="black">Black</string>
+    <string name="white">White</string>
+
+    <!-- main_layout -->
+    <string name="play">Play</string>
+    <string name="exit_msg">Are you sure you want to exit?</string>
+
+    <!-- board_layout -->
+    <string name="tile">Tile</string>
+    <string name="now_plays">Now Plays:</string>
+    <string name="invalid">Invalid Move!</string>
+    <string name="count">\ %d\ \ </string>
+    <string name="cant_play">%s has no available move. %s plays again.</string>
+    <string name="no_moves">Neither of the players have legal moves.</string>
+    <string name="early_victory">There are no %s tiles left.</string>
+    <string name="game_over">Game Over!</string>
+    <string name="win_white">White wins.</string>
+    <string name="win_black">Black wins.</string>
+    <string name="you_won">You won!</string>
+    <string name="you_lost">You lost!</string>
+    <string name="tie">It\'s a tie.</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="play_again">Play Again</string>
+    <string name="choose_color">Choose color!</string>
+    <string name="choose_color_txt">Do you want white tiles or black?</string>
+    <string name="choose_color_default">You get the Black tiles.</string>
+    <string name="error">Error!</string>
+    <string name="error_txt">An error has occurred! Play again or go to Main Menu?</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
