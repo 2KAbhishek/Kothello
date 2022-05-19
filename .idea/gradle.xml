@@ -14,7 +14,6 @@
             <option value="/run/media/Storage/Projects/GitHub/1-WIP/Kothello/app" />
           </set>
         </option>
-        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
