@@ -23,7 +23,7 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
+<h3>Play Othello Anywhere ⚪📱</h3>
 
 <figure>
   <img src= "images/screenshot.jpg" alt="Kothello Demo" style="width:100%">
@@ -35,17 +35,19 @@
 
 ## What is this
 
-Kothello is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+Kothello is an implementation of the Othello game.
+
+> The game is written in Java not Kotlin :p
 
 ## Inspiration
 
-Kothello was inspired by `<reason/idea>`.
+Was playing Othello with a friend and decided to write my own implementation.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `Android Studio`.
 
 ## Getting Kothello
 
@@ -54,51 +56,25 @@ To install Kothello, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/Kothello
 cd Kothello
-<install_command>
-```
-
-## Using Kothello
-
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
 ```
 
 ## How it was built
 
-Kothello was built using `<tech/library>`
+Kothello was built using `Android Studio` and `Java`.
 
 ## Challenges faced
 
-While building Kothello the main challenges were `<issue/difficulty>`
+Implementing the game logic was a challenge.
 
 ## What I learned
 
-While building Kothello I `<learned/accomplished>` about `<learning/accomplishment>`
+- Learned about different ways to use resources in Android.
+- Enjoyed implementing the game logic, using board and tiles.
+- Updating the game board on user interaction was fun.
 
 ## What's next
 
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+Maybe add a AI player to the game.
 
 Hit the ⭐ button if you found this useful.
 
